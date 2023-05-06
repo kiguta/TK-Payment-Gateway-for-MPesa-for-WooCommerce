@@ -1,6 +1,6 @@
 # TK MPesa Payment Gateway for WooCommerce
 
-Mpesa WooCommerce payment gateway that allows customers to make payment to the shop owner the payments from their mobile phone via MPesa Paybill or MPesa Buy Goods Till.
+Mpesa WooCommerce payment gateway that allows customers to make payment to the shop owner from their mobile phone via MPesa Paybill or MPesa Buy Goods Till.
 
 Give your MPesa customers an opportunity submit the order and make a payment through a MPesa STK Push. The more important is it's very easy to setup and use.
 
