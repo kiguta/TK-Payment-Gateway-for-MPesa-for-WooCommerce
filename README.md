@@ -1,4 +1,4 @@
-# TK MPesa Payment Gateway for WooCommerce
+# TK Payment Gateway for MPesa for WooCommerce
 
 Mpesa WooCommerce payment gateway that allows customers to make payment to the shop owner from their mobile phone via MPesa Paybill or MPesa Buy Goods Till.
 
