@@ -104,4 +104,4 @@ MPesa WooCommerce payment gateway that allows customers to pay directly from the
 
 [PayPal](https://www.paypal.com/donate/?hosted_button_id=CSQFKDWQZVE4W)
 
-##### MPesa Donation: 254725682556
+##### MPesa Donation: 254725682556 or MPesa Till 5267627
