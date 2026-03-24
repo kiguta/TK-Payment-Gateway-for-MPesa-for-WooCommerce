@@ -102,6 +102,8 @@ MPesa WooCommerce payment gateway that allows customers to pay directly from the
 
 #### Donate
 
-[PayPal](https://www.paypal.com/donate/?hosted_button_id=CSQFKDWQZVE4W)
+<a href="https://www.paypal.com/donate/?hosted_button_id=CSQFKDWQZVE4W" target="_blank">
+  <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate with PayPal">
+</a>
 
 ##### MPesa Donation: 254725682556 or MPesa Till 5267627
