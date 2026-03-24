@@ -2,15 +2,15 @@
 
 MPesa WooCommerce payment gateway that allows customers to pay directly from their mobile phone via MPesa STK Push (Lipa Na MPesa Online). Supports both Paybill and Buy Goods Till, the classic shortcode checkout, and the WooCommerce Checkout Block.
 
-##### Requires at least: 6.4
+##### Requires at least: Wordpress 6.4
 
-##### Tested up to: 6.8
+##### Tested up to: Wordpress 6.8
 
 ##### Requires PHP: 7.4
 
-##### WC requires at least: 6.0
+##### WooCommerce requires at least: 6.0
 
-##### WC tested up to: 9.8
+##### WooCommerce tested up to: 9.8
 
 ---
 
