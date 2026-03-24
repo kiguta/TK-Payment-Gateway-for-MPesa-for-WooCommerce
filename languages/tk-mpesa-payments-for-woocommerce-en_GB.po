@@ -1,0 +1,191 @@
+# British English translation for TK MPesa Payment Gateway for WooCommerce.
+# Copyright (C) 2024 Tonie Kiguta
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: TK MPesa Payment Gateway for WooCommerce 2.0.0\n"
+"Report-Msgid-Bugs-To: mailto:tonkigs@gmail.com\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: Tonie Kiguta <tonkigs@gmail.com>\n"
+"Language-Team: English (United Kingdom)\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: tk-mpesa-payments-for-woocommerce\n"
+
+#: tk-mpesa-for-woo.php
+msgid "MPesa Gateway"
+msgstr "MPesa Gateway"
+
+#: tk-mpesa-for-woo.php
+msgid "Receive payments from your customers via MPesa."
+msgstr "Receive payments from your customers via MPesa."
+
+#: tk-mpesa-for-woo.php
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+#: tk-mpesa-for-woo.php
+msgid "Enable MPesa Gateway"
+msgstr "Enable MPesa Gateway"
+
+#: tk-mpesa-for-woo.php
+msgid "Test mode"
+msgstr "Test mode"
+
+#: tk-mpesa-for-woo.php
+msgid "Enable Daraja Sandbox"
+msgstr "Enable Daraja Sandbox"
+
+#: tk-mpesa-for-woo.php
+msgid "Use the Safaricom sandbox API for testing. Disable for live transactions."
+msgstr "Use the Safaricom sandbox API for testing. Disable for live transactions."
+
+#: tk-mpesa-for-woo.php
+msgid "Title"
+msgstr "Title"
+
+#: tk-mpesa-for-woo.php
+msgid "This controls the title which the user sees during checkout."
+msgstr "This controls the title which the user sees during checkout."
+
+#: tk-mpesa-for-woo.php
+msgid "MPesa Payments"
+msgstr "MPesa Payments"
+
+#: tk-mpesa-for-woo.php
+msgid "Description"
+msgstr "Description"
+
+#: tk-mpesa-for-woo.php
+msgid "This controls the description which the user sees during checkout."
+msgstr "This controls the description which the user sees during checkout."
+
+#: tk-mpesa-for-woo.php
+msgid "A payment request will be sent to the payment MPesa number you will provide below. Please ensure your phone is ON and Unlocked"
+msgstr "A payment request will be sent to the MPesa number you provide below. Please ensure your phone is switched on and unlocked."
+
+#: tk-mpesa-for-woo.php
+msgid "App Consumer Key"
+msgstr "App Consumer Key"
+
+#: tk-mpesa-for-woo.php
+msgid "App Consumer Secret"
+msgstr "App Consumer Secret"
+
+#: tk-mpesa-for-woo.php
+msgid "Pass Key"
+msgstr "Pass Key"
+
+#: tk-mpesa-for-woo.php
+msgid "Payment Type"
+msgstr "Payment Type"
+
+#: tk-mpesa-for-woo.php
+msgid "Select Payment Type"
+msgstr "Select Payment Type"
+
+#: tk-mpesa-for-woo.php
+msgid "CustomerPayBillOnline if using Paybill or CustomerBuyGoodsOnline if using a Till Number"
+msgstr "CustomerPayBillOnline if using Paybill or CustomerBuyGoodsOnline if using a Till Number"
+
+#: tk-mpesa-for-woo.php
+msgid "Short Code"
+msgstr "Short Code"
+
+#: tk-mpesa-for-woo.php
+msgid "This is Paybill Number for Paybill or Head Office Number for Till"
+msgstr "This is the Paybill Number for Paybill or the Head Office Number for Till"
+
+#: tk-mpesa-for-woo.php
+msgid "Payment to"
+msgstr "Payment to"
+
+#: tk-mpesa-for-woo.php
+msgid "This is the Paybill Number / Till Number"
+msgstr "This is the Paybill Number / Till Number"
+
+#: tk-mpesa-for-woo.php
+msgid "Callback URL"
+msgstr "Callback URL"
+
+#: tk-mpesa-for-woo.php
+msgid "The endpoint where MPesa will send payment notifications. Enter a unique name without spaces. Must not contain the word \"mpesa\"."
+msgstr "The endpoint where MPesa will send payment notifications. Enter a unique name without spaces. Must not contain the word \"mpesa\"."
+
+#: tk-mpesa-for-woo.php
+msgid "MPesa Phone Number"
+msgstr "MPesa Phone Number"
+
+#: tk-mpesa-for-woo.php
+msgid "Security check failed. Please refresh and try again."
+msgstr "Security check failed. Please refresh and try again."
+
+#: tk-mpesa-for-woo.php
+msgid "MPesa Phone Number is required!"
+msgstr "MPesa Phone Number is required!"
+
+#: tk-mpesa-for-woo.php
+msgid "MPesa payment request failed. Please try again."
+msgstr "MPesa payment request failed. Please try again."
+
+#: tk-mpesa-for-woo.php
+msgid "Could not authenticate with MPesa API."
+msgstr "Could not authenticate with the MPesa API."
+
+#: tk-mpesa-for-woo.php
+msgid "Awaiting MPesa Payment Confirmation"
+msgstr "Awaiting MPesa Payment Confirmation"
+
+#: tk-mpesa-for-woo.php
+msgid "Billed MPesa Number:"
+msgstr "Billed MPesa Number:"
+
+#: tk-mpesa-for-woo.php
+msgid "Payment process not completed."
+msgstr "Payment process not completed."
+
+#. translators: %s: MPesa receipt number
+#: tk-mpesa-for-woo.php
+msgid "Paid via MPesa: %s."
+msgstr "Paid via MPesa: %s."
+
+#: tk-mpesa-for-woo.php
+msgid "MPesa Payment"
+msgstr "MPesa Payment"
+
+#: tk-mpesa-for-woo.php
+msgid "Request ID"
+msgstr "Request ID"
+
+#: tk-mpesa-for-woo.php
+msgid "Order ID"
+msgstr "Order ID"
+
+#: tk-mpesa-for-woo.php
+msgid "Requesting Number"
+msgstr "Requesting Number"
+
+#: tk-mpesa-for-woo.php
+msgid "Request Amount"
+msgstr "Request Amount"
+
+#: tk-mpesa-for-woo.php
+msgid "Payment Status"
+msgstr "Payment Status"
+
+#: assets/js/mpesa-blocks.js
+msgid "MPesa Payments"
+msgstr "MPesa Payments"
+
+#: assets/js/mpesa-blocks.js
+msgid "MPesa Phone Number"
+msgstr "MPesa Phone Number"
+
+#: assets/js/mpesa-blocks.js
+msgid "MPesa Phone Number is required!"
+msgstr "MPesa Phone Number is required!"
